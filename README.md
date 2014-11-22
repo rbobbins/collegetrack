@@ -7,6 +7,7 @@
 * Icebreakers
 * Code of conduct
 * A longer checklist/survey - [here](http://www.erasurvey.org/survey3/gwcclub1.htm])
+* Email addresses - [please!](https://docs.google.com/forms/d/1CeF7-hRQhGM3n8IwogWE9JrpLEyviDsMySePd4zwMYQ/viewform)
 * What is Computer Science? -  [Slides](https://github.com/rbobbins/collegetrack/blob/master/nov22/1%20Real%20World%20CS%20Examples.pdf?raw=true)
 * Scratch - [Sign up](http://scratch.mit.edu/)
 * Lunch
