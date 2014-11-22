@@ -13,3 +13,7 @@
 * Lunch
 * Squares [PDF](https://github.com/rbobbins/collegetrack/blob/master/nov22/1%20First%20Square%20Lab.pdf?raw=true)
 * Loops (if there's time) - [PDF](https://github.com/rbobbins/collegetrack/blob/master/nov22/1%20Generative%20Art%20Lab.pdf?raw=true)
+* 
+
+### Before the end of the day
+* Please [send me the link](https://docs.google.com/forms/d/18Ynm73qJQ1FNGxiTJZLgw3DuOwjFL2tWC7wznC-iSpQ/viewform) to your Square drawing
