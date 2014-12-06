@@ -1,5 +1,15 @@
 # Girls Who Code @ College Track SF
 
+## Day 2
+* Icebreakers. Meet Amy!
+* Group Code - Let's re-write our squares program from last week, using Loops. [Scratch]()
+* Loops Practice - Pair up with each other and refresh our memory of loops. [Worksheet](https://raw.githubusercontent.com/rbobbins/collegetrack/master/dec6/loops_practice.png) [Scratch](http://scratch.mit.edu/projects/24289306/)
+* Randomness [Video](https://www.youtube.com/watch?v=toHQCrb4a38&feature=player_embedded)
+* Project 1 - Random Art [Details](https://github.com/rbobbins/collegetrack/raw/master/dec6/generative_art_lab.pdf)
+* Lunch
+* Continue on Project 1
+
+
 ## Day 1
 ### Agenda
 * Welcome! Who is Rachel? Who is Amy?
