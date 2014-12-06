@@ -8,6 +8,7 @@
 * Project 1 - Random Art [Details](https://github.com/rbobbins/collegetrack/raw/master/dec6/generative_art_lab.pdf)
 * Lunch
 * Continue on Project 1
+* Send us your Project 1 [Via this form](https://docs.google.com/forms/d/1GGKAS7pUQL7m-kBaLIsnNWSdQ9RRz-675IIsOsnDxqM/viewform)
 
 
 ## Day 1
