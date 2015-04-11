@@ -1,5 +1,8 @@
 # Girls Who Code @ College Track SF
 
+## April 11:
+[Submit your project to GWC](https://docs.google.com/forms/d/1m3xB-HewtqEanNFi3GDa8ov410RVzTsen0tD6bIdyF4/viewform)
+
 ## Day 2
 * Icebreakers. Meet Amy!
 * Group Code - Let's re-write our squares program from last week, using Loops. [Scratch]()
